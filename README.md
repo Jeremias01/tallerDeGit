@@ -1,5 +1,5 @@
-# tallerDeGit
+	# tallerDeGit
 
 Taller de Git de la materia "Introduccion a la Programacion" de la FCEyN - UBA.
 abcde
-Ejemplo de cambio Cambio  repo2
+Ejemplo de cambio Cambiorepo1
